@@ -11,3 +11,4 @@ chardet
 statsmodels
 PyWavelets
 umap-learn
+fastdtw
