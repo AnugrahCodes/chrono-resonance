@@ -9,3 +9,4 @@ scikit-learn
 joblib 
 lifetimes
 chardet
+statsmodels
