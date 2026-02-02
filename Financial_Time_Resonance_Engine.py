@@ -20,11 +20,11 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # App title and description
-st.set_page_config(page_title="Revenue Optimization & Customer Retention Engine", 
+st.set_page_config(page_title="ChronoResonance", 
                    layout="wide", 
                    initial_sidebar_state="expanded")
 
-st.title("AI-Powered Predictive Revenue Optimization & Customer Retention Engine")
+st.title("ChronoResonance: An AI-Powered Predictive Revenue Optimization & Customer Retention Engine")
 
 # Sidebar navigation
 st.sidebar.title("Navigation")
