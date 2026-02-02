@@ -99,4 +99,4 @@ streamlit run streamlit_app.py
 
 ## 🌐 Live Demo
 
-[![Open in Streamlit](https://anugrahcodes-chrono-reso-financial-time-resonance-engine-54vj8o.streamlit.app/)]
+https://anugrahcodes-chrono-reso-financial-time-resonance-engine-54vj8o.streamlit.app/
